@@ -3,4 +3,4 @@ read -p "Enter 2nd number: " y
 echo $x
 echo $y
 Z=$(( $x + $y ))
-echo $Z
+echo  addition is $Z
